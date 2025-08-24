@@ -1,6 +1,6 @@
 # icon-xprt
 
-It's clone of [icon-sets.iconify.design](https://icon-sets.iconify.design/).
+It's a clone of [icon-sets.iconify.design](https://icon-sets.iconify.design/).
 
 ## Development Server
 
