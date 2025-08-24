@@ -1,0 +1,27 @@
+{
+  "name": "icon-xprt",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@iconify-json/fa6-brands": "^1.2.6",
+    "@iconify-json/fa6-regular": "^1.2.4",
+    "@iconify-json/fa6-solid": "^1.2.4",
+    "@iconify-json/lucide": "^1.2.63",
+    "@iconify-json/simple-icons": "^1.2.48",
+    "@nuxt/ui": "^3.3.2",
+    "@orama/orama": "^3.1.11",
+    "@orama/plugin-qps": "^3.1.11",
+    "@orama/stemmers": "^3.1.11",
+    "html-to-image": "^1.11.13",
+    "nuxt": "^4.0.3",
+    "vue": "^3.5.18",
+    "vue-router": "^4.5.1"
+  }
+}
